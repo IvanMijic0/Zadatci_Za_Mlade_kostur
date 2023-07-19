@@ -1,6 +1,5 @@
 import re
 
-
 def myAtoi(s: str) -> int:
     s = s.strip()
 

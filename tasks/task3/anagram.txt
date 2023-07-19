@@ -1,0 +1,6 @@
+3.)
+
+Dati su stringovi s i t. Vratite true ako je t anagram stringa s, a false inače.
+
+Anagram je riječ ili fraza koja se formira preuređivanjem slova neke druge riječi ili fraze,
+obično koristeći sva originalna slova točno jednom.

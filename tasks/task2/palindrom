@@ -1,0 +1,6 @@
+2.)
+
+Rečenica je palindrom ako, nakon pretvaranja svih velikih slova u mala slova i
+uklanjanja svih znakova koji nisu slova ili brojevi, se čita isto i unaprijed i unazad.
+Alfanumerički znakovi uključuju slova i brojeve.
+Napišite funkciju koja za dati string s, vrati true ako je palindrom, ili false ako nije.

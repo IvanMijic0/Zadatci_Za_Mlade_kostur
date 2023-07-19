@@ -1,3 +1,5 @@
+1.)
+
 Implementirajte funkciju myAtoi(string s) koja pretvara string u 32-bitni cijeli broj sa znakom (slično funkciji atoi u C/C++).
 
     Algoritam za myAtoi(string s) je sljedeći:
