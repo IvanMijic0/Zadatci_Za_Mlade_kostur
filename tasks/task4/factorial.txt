@@ -1,0 +1,5 @@
+4.)
+
+Računanje faktorijela
+Opis: Napišite Python funkciju koja kao ulaz uzima pozitivan cijeli broj i vraća njegov faktorijel.
+Faktorijel broja je proizvod svih pozitivnih brojeva od 1 do tog broja, uključujući taj broj.
