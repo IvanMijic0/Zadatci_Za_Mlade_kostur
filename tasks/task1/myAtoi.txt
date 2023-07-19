@@ -1,0 +1,16 @@
+Implementirajte funkciju myAtoi(string s) koja pretvara string u 32-bitni cijeli broj sa znakom (slično funkciji atoi u C/C++).
+
+    Algoritam za myAtoi(string s) je sljedeći:
+    1. Učitajte i zanemarite bilo kakve vodeće razmake.
+    2. Provjerite da li je sljedeći znak (ako već niste na kraju stringa) '-' ili '+'. Učitajte taj znak ako je bilo koji od njih prisutan.
+    To određuje da li je konačni rezultat negativan ili pozitivan, redom. Pretpostavite da je rezultat pozitivan ako nijedan od njih nije prisutan.
+    3. Učitajte sljedeće znakove sve dok ne naiđete na prvi znak koji nije broj ili dok ne dođete do kraja unosa. Ostatak stringa se zanemaruje.
+    4. Pretvorite ove brojeve u cijeli broj (npr. "123" -> 123, "0032" -> 32). Ako nijedan broj nije učitan, tada je cijeli broj 0.
+    Promijenite znak prema potrebi (iz koraka 2).
+    5. Ako je cijeli broj izvan raspona 32-bitnih cijelih brojeva sa znakom [-2^31, 2^31 - 1], ograničite ga tako da ostane unutar tog raspona.
+    Konkretno, brojevi manji od -2^31 trebaju biti ograničeni na -2^31, a brojevi veći od 2^31 - 1 trebaju biti ograničeni na 2^31 - 1.
+    6. Vratite cijeli broj kao konačni rezultat.
+
+    Napomena:
+    - Samo znak razmaka ' ' se smatra znakom razmaka.
+    - Nemojte zanemarivati bilo koje znakove osim vodećih razmaka ili ostatka stringa nakon brojeva.
