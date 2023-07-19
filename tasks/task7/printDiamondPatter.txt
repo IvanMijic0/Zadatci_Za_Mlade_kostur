@@ -1,0 +1,6 @@
+7.)
+
+Izrada uzorka dijamanta
+
+Napišite Python funkciju koja uzima neparan broj kao ulaz i ispisuje uzorak dijamanta s asteriskama (*)
+koristeći dati broj kao širinu dijamanta.
