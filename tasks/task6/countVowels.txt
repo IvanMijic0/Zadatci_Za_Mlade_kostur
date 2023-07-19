@@ -1,0 +1,6 @@
+6.)
+
+Brojanje samoglasnika
+
+Napišite Python funkciju koja kao ulaz uzima string i broji koliko se
+puta pojavljuju samoglasnici (a, e, i, o, u) u stringu. Funkcija treba vratiti broj samoglasnika.

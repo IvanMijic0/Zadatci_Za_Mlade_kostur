@@ -1,5 +1,6 @@
 5.)
 
 Provjera prostog broja
+
 Napišite Python funkciju koja kao ulaz uzima pozitivan cijeli broj i određuje da li je prost broj.
 Prost broj je broj veći od 1 koji je djeljiv samo sa 1 i samim sobom.
